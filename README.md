@@ -29,9 +29,7 @@ The dataset contains information about food establishments and inspections condu
 | Source           | City of Chicago                |
 | Dataset          | Food Inspections               |
 | Database         | MySQL                          |
-| Original Records | 630,446                        |
-| Location         | Chicago, Illinois              |
-| Data Type        | Food Safety Inspection Records |
+| Original Records | 315,223                        |
 
 ### Key Columns
 
