@@ -55,6 +55,16 @@ The dataset contains information about food establishments and inspections condu
 
 ---
 
+## 🔗 Data Source
+
+**City of Chicago — Food Inspections**
+
+* Data source: inspections of restaurants and other food establishments in Chicago from January 1, 2010, to the present September 4, 2026
+
+[View the dataset on the City of Chicago Data Portal](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/about_data)
+
+---
+
 ## 🔄 Project Workflow
 
 ### 1. Data Cleaning
@@ -154,14 +164,5 @@ Examples include:
 * Inspections by risk level
 * Common food safety violations
 
----
-
-## 🔗 Data Source
-
-**City of Chicago — Food Inspections**
-
-[View the dataset on the City of Chicago Data Portal](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/about_data)
-
----
 
 
