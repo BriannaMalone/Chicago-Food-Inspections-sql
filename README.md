@@ -80,7 +80,7 @@ Cleaning tasks included:
 * Creating a cleaned dataset
 * Verifying the cleaned data
 
-📄 SQL file: `01_data_cleaning.sql`
+📄 SQL file: `data_profiling.sql`
 
 ---
 
@@ -100,7 +100,7 @@ Analysis included:
 * Results by risk level
 * Common violations
 
-📄 SQL file: `02_exploratory_analysis.sql`
+📄 SQL file: `exploratory_analysis.sql`
 
 ---
 
@@ -117,7 +117,7 @@ The analysis uses SQL to answer practical data-analysis questions, including:
 7. What are the most common food safety violations?
 8. Which ZIP codes have the most inspections?
 
-📄 SQL file: `03_business_questions.sql`
+📄 SQL file: `business_questions.sql`
 
 ---
 
@@ -127,9 +127,8 @@ The analysis uses SQL to answer practical data-analysis questions, including:
 
 ### Dataset
 
-* Raw records: **630,446**
-* Clean records: **TBD**
-* Duplicate records removed: **TBD**
+* Raw records: **315,223**
+* Clean records: **315,199**
 
 ### Inspection Results
 
