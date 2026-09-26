@@ -137,7 +137,7 @@ Cleaning tasks included:
 
 Violation Definition Change
 
-The Chicago Food Inspections dataset contains inspection records from January 2010 to the present. Because the City of Chicago changed its food inspection procedures and violation definitions on July 1, 2018, we analyzed violation codes before and after this date separately.
+The Chicago Food Inspections dataset contains inspection records from January 2010 to the present. Because the City of Chicago changed its food inspection procedures and violation definitions on July 1, 2018, I analyzed violation codes before and after this date separately.
 
 * Most common food safety violation January 1, 2010 to July 1, 2018:
 ***Violation #32 & Violation #33***
