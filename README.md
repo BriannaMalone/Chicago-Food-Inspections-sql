@@ -59,9 +59,9 @@ The dataset contains information about food establishments and inspections condu
 
 **City of Chicago — Food Inspections**
 
-* Data source: inspections of restaurants and other food establishments in Chicago from January 1, 2010, to the present September 4, 2026
+* Data source: inspections of restaurants and other food establishments in Chicago from January 1, 2010, to the present, September 4, 2026
 
-[View the dataset on the City of Chicago Data Portal](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/about_data)
+[Dataset on the City of Chicago Data Portal](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/about_data)
 
 ---
 
