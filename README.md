@@ -132,22 +132,22 @@ The analysis uses SQL to answer practical data-analysis questions, including:
 
 ### Inspection Results
 
-* Most common inspection result: **TBD**
-* Overall failure rate: **TBD**
+* Most common inspection result: **PASS --> 163,113 records**
+* Overall failure rate: **19.26% (60,699/315,199)**
 
 ### Facility Types
 
-* Most frequently inspected facility type: **TBD**
-* Facility type with highest failure rate: **TBD**
+* Most frequently inspected facility type: **Restaurant**
+* Facility type with highest failure rate: **Wholesale Stores**
 
 ### Risk Levels
 
-* Most common risk category: **TBD**
-* Risk category with the most failed inspections: **TBD**
+* Most common risk category: **RISK 1 (HIGH) --> 74.39% of inspections**
+* Risk category with the most failed inspections: **RISK 1 (HIGH) --> 44,890 failed inspections**
 
 ### Violations
 
-* Most common food safety violation: **TBD**
+* Most common food safety violation: **Violation #32** & **Violation #3**
 
 ---
 
