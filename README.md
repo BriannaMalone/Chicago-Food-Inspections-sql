@@ -56,10 +56,9 @@ The dataset contains information about food establishments and inspections condu
 
 **City of Chicago — Food Inspections**
 
-* Data source: inspections of restaurants and other food establishments in Chicago from January 1, 2010, to the present, September 4, 2026
+* Data source: inspections of restaurants and other food establishments in Chicago from January 1, 2010, to the present, September 4, 2026                            [Dataset on the City of Chicago Data Portal](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/about_data)
 
-[Dataset on the City of Chicago Data Portal](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/about_data)
-
+* Link to description of columns                                                                                                                                      [Dataset Attribute Descriptions](https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF)
 ---
 
 ## 🔄 Project Workflow
@@ -72,20 +71,14 @@ Cleaning tasks included:
 
 * Creating a staging table
 * Checking record counts
-* Identifying duplicate records
-* Removing duplicate records
-* Creating a cleaned dataset
-* Verifying the cleaned data
+* Identifying and removing duplicate records
+* Creating and verifying a cleaned dataset
 
 📄 SQL file: `data_profiling.sql`
 
 ---
 
 ### 2. Exploratory Data Analysis
-
-The cleaned dataset was analyzed to identify patterns and trends in food inspections.
-
-Analysis included:
 
 * Total number of inspections
 * Number of unique businesses
@@ -99,11 +92,11 @@ Analysis included:
 
 📄 SQL file: `exploratory_analysis.sql`
 
+📄 SQL file: `restaurant_questions.sql`
+
 ---
 
 ### 3. Business Questions
-
-The analysis uses SQL to answer practical data-analysis questions, including:
 
 1. What are the most common types of food facilities?
 2. What are the most common inspection results?
@@ -119,8 +112,6 @@ The analysis uses SQL to answer practical data-analysis questions, including:
 ---
 
 ## 📈 Key Findings
-
-*Findings will be added after completing the analysis.*
 
 ### Dataset
 
@@ -155,8 +146,6 @@ The Chicago Food Inspections dataset contains inspection records from January 20
 ---
 
 ## 📊 Results & Visualizations
-
-Visualizations and key results will be added as the analysis is completed.
 
 * Inspection results distribution
 * Inspections by year
