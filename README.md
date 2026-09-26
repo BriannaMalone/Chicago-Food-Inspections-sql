@@ -11,9 +11,6 @@ The goal is to clean, explore, and analyze food inspection records to identify p
 * Facility types
 * Inspection types
 * Food safety violations
-* Inspection trends over time
-* Geographic patterns
-
 ---
 
 ## 📊 Dataset
