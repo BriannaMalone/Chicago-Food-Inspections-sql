@@ -147,15 +147,19 @@ The analysis uses SQL to answer practical data-analysis questions, including:
 
 ### Violations
 
-* Most common food safety violation: **Violation #32** & **Violation #3**
+Violation Definition Change
 
+The Chicago Food Inspections dataset contains inspection records from January 2010 to the present. Because the City of Chicago changed its food inspection procedures and violation definitions on July 1, 2018, we analyzed violation codes before and after this date separately.
+
+* Most common food safety violation January 1, 2010 to July 1, 2018:
+***Violation #32 & Violation #33***
+* Most common food safety violation July 1, 2018 to Present:
+***Violation #3 & Violation #10***
 ---
 
 ## 📊 Results & Visualizations
 
 Visualizations and key results will be added as the analysis is completed.
-
-Examples include:
 
 * Inspection results distribution
 * Inspections by year
